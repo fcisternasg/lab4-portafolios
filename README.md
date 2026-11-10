@@ -5,4 +5,5 @@
 **Autor:** Francisco Andrés Cisternas García  
 **Fecha:** 6 de noviembre de 2026
 
-# AUN EN CONSTRUCCION
+
+*Estado: En construcción.*
